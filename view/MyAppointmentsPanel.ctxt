@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyAppointmentsPanel
+comment1.params=patientId
+comment1.target=MyAppointmentsPanel(int)
+comment2.params=
+comment2.target=void\ loadAppointments()
+numComments=3

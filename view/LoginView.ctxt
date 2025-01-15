@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LoginView
+comment1.params=
+comment1.target=LoginView()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=email
+comment4.target=int\ getUserIdByEmail(java.lang.String)
+comment5.params=email
+comment5.target=java.lang.String\ getUserTypeByEmail(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

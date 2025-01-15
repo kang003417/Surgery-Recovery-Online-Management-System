@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PatientChatView
+comment1.params=userId\ surgeonId
+comment1.target=PatientChatView(int,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ connectToServer()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=senderId\ receiverId\ message
+comment5.target=void\ saveMessageToDatabase(int,\ int,\ java.lang.String)
+numComments=6

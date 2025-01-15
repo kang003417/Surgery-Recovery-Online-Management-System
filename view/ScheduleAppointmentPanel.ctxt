@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScheduleAppointmentPanel
+comment1.params=patientId\ surgeonId
+comment1.target=ScheduleAppointmentPanel(int,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

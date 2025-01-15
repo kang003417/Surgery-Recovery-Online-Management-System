@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ProfilePanel
+comment1.params=userId
+comment1.target=ProfilePanel(int)
+comment2.params=labelText\ textField
+comment2.target=javax.swing.JPanel\ createLabeledField(java.lang.String,\ javax.swing.JTextField)
+comment3.params=userId
+comment3.target=void\ loadPatientProfile(int)
+comment4.params=
+comment4.target=void\ saveProfile()
+numComments=5

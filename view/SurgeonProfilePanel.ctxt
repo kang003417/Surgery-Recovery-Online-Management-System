@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SurgeonProfilePanel
+comment1.params=surgeonId
+comment1.target=SurgeonProfilePanel(int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ loadSurgeonProfile()
+comment4.params=
+comment4.target=void\ saveSurgeonProfile()
+comment5.params=labelText\ textField\ editable
+comment5.target=javax.swing.JPanel\ createLabeledField(java.lang.String,\ javax.swing.JTextField,\ boolean)
+numComments=6

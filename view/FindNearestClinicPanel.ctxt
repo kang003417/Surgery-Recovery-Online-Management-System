@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FindNearestClinicPanel
+comment1.params=patientID
+comment1.target=FindNearestClinicPanel(int)
+comment2.params=patientID
+comment2.target=void\ loadNearestClinics(int)
+numComments=3

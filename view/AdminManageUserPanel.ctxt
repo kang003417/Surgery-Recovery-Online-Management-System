@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AdminManageUserPanel
+comment1.params=
+comment1.target=AdminManageUserPanel()
+comment2.params=e
+comment2.target=void\ valueChanged(javax.swing.event.ListSelectionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ loadUserData()
+comment6.params=labelText\ field\ editable
+comment6.target=javax.swing.JPanel\ createLabeledField(java.lang.String,\ java.awt.Component,\ boolean)
+numComments=7
