@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FollowUpAppointment
+comment1.params=followUpID\ appointmentID\ followUpDate\ followUpTime\ surgeonNotes
+comment1.target=FollowUpAppointment(int,\ int,\ java.sql.Date,\ java.sql.Time,\ java.lang.String)
+comment10.params=followUpTime
+comment10.target=void\ setFollowUpTime(java.sql.Time)
+comment11.params=surgeonNotes
+comment11.target=void\ setSurgeonNotes(java.lang.String)
+comment2.params=
+comment2.target=int\ getFollowUpID()
+comment3.params=
+comment3.target=int\ getAppointmentID()
+comment4.params=
+comment4.target=java.sql.Date\ getFollowUpDate()
+comment5.params=
+comment5.target=java.sql.Time\ getFollowUpTime()
+comment6.params=
+comment6.target=java.lang.String\ getSurgeonNotes()
+comment7.params=followUpID
+comment7.target=void\ setFollowUpID(int)
+comment8.params=appointmentID
+comment8.target=void\ setAppointmentID(int)
+comment9.params=followUpDate
+comment9.target=void\ setFollowUpDate(java.sql.Date)
+numComments=12

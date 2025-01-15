@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Payments
+comment1.params=paymentID\ patientID\ patientName\ patientEmail\ paymentStatus\ dateOfPayment\ treatment\ amountPaid
+comment1.target=Payments(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.sql.Date,\ java.lang.String,\ java.math.BigDecimal)
+comment2.params=
+comment2.target=int\ getPaymentID()
+comment3.params=
+comment3.target=int\ getPatientID()
+comment4.params=
+comment4.target=java.lang.String\ getPatientName()
+comment5.params=
+comment5.target=java.lang.String\ getPatientEmail()
+comment6.params=
+comment6.target=java.lang.String\ getPaymentStatus()
+comment7.params=
+comment7.target=java.sql.Date\ getDateOfPayment()
+comment8.params=
+comment8.target=java.lang.String\ getTreatment()
+comment9.params=
+comment9.target=java.math.BigDecimal\ getAmountPaid()
+numComments=10

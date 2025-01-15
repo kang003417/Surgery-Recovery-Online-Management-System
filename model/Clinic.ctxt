@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Clinic
+comment1.params=clinicID\ clinicName\ clinicAddress\ clinicPhone\ clinicPostcode\ patientPostcode
+comment1.target=Clinic(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getClinicID()
+comment3.params=
+comment3.target=java.lang.String\ getClinicname()
+comment4.params=
+comment4.target=java.lang.String\ getClinicAddress()
+comment5.params=
+comment5.target=java.lang.String\ getClinicpostcode()
+comment6.params=
+comment6.target=java.lang.String\ getPatientpostcode()
+numComments=7

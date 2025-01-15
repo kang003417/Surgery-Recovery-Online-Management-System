@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Treatment
+comment1.params=treatmentID\ appointmentID\ surgeonID\ treatmentDetails\ treatmentDate
+comment1.target=Treatment(int,\ int,\ int,\ java.lang.String,\ java.util.Date)
+comment10.params=treatmentDetails
+comment10.target=void\ setTreatmentDetails(java.lang.String)
+comment11.params=treatmentDate
+comment11.target=void\ setTreatmentDate(java.util.Date)
+comment2.params=
+comment2.target=int\ getTreatmentID()
+comment3.params=
+comment3.target=int\ getAppointmentID()
+comment4.params=
+comment4.target=int\ getSurgeonID()
+comment5.params=
+comment5.target=java.lang.String\ getTreatmentDetails()
+comment6.params=
+comment6.target=java.util.Date\ getTreatmentDate()
+comment7.params=treatmentID
+comment7.target=void\ setTreatmentID(int)
+comment8.params=appointmentID
+comment8.target=void\ setAppointmentID(int)
+comment9.params=surgeonID
+comment9.target=void\ setSurgeonID(int)
+numComments=12
