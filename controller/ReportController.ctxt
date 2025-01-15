@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ReportController
+comment1.params=name
+comment1.target=model.Patient\ getPatientByName(java.lang.String)
+comment2.params=patientId
+comment2.target=java.util.List\ getAppointmentsByPatientId(int)
+comment3.params=patientId
+comment3.target=java.util.List\ getMedicalHistoryByPatientId(int)
+comment4.params=patientId
+comment4.target=java.util.List\ getTreatmentsByPatientId(int)
+numComments=5

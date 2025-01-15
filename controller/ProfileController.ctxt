@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProfileController
+comment1.params=userId
+comment1.target=model.Patient\ getPatientProfile(int)
+comment2.params=patient
+comment2.target=boolean\ updatePatientProfile(model.Patient)
+numComments=3

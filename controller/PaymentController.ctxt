@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PaymentController
+comment1.params=payment
+comment1.target=boolean\ processPayment(model.Payment)
+numComments=2

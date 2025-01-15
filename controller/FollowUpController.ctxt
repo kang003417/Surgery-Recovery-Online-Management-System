@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FollowUpController
+comment1.params=appointmentID
+comment1.target=java.util.List\ getFollowUpAppointmentsByAppointmentID(int)
+comment2.params=appointmentID
+comment2.target=java.util.List\ getAppointmentsByAppointmentID(int)
+comment3.params=followUpAppointment
+comment3.target=void\ saveFollowUpAppointment(model.FollowUpAppointment)
+comment4.params=followUpAppointment
+comment4.target=void\ updatePatientAppointment(model.FollowUpAppointment)
+numComments=5

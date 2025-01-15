@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MessageController
+comment1.params=senderID\ receiverID\ messageText
+comment1.target=void\ saveMessage(int,\ int,\ java.lang.String)
+numComments=2

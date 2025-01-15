@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AppointmentController
+comment1.params=surgeonId
+comment1.target=java.util.List\ getAppointmentsForSurgeon(int)
+comment2.params=patientId
+comment2.target=java.util.List\ getAppointmentsForPatient(int)
+comment3.params=appointmentID
+comment3.target=boolean\ cancelAppointment(int)
+numComments=4

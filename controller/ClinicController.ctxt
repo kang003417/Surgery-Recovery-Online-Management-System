@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ClinicController
+comment1.params=patientID
+comment1.target=java.util.List\ getNearestClinicsByPatientID(int)
+numComments=2
