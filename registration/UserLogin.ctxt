@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UserLogin
+comment1.params=enteredEmail\ enteredPassword
+comment1.target=boolean\ loginUser(java.lang.String,\ java.lang.String)
+comment2.params=email
+comment2.target=java.lang.String\ getStoredPasswordFromDatabase(java.lang.String)
+numComments=3

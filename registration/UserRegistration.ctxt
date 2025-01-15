@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=UserRegistration
+comment1.params=email\ password\ username\ postcode\ userType
+comment1.target=boolean\ registerUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
