@@ -2,6 +2,8 @@
 comment0.target=SurgeonController
 comment1.params=surgeonId
 comment1.target=model.Surgeon\ getSurgeonProfile(int)
-comment2.params=surgeonId\ username\ email\ phone\ department
-comment2.target=boolean\ updateSurgeonProfile(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
-numComments=3
+comment2.params=surgeonId\ username\ phone\ department
+comment2.target=boolean\ updateSurgeonProfile(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getAllSurgeons()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MedicalHistoryController
+comment1.params=
+comment1.target=java.util.List\ getAllPatients()
+comment2.params=patientUserId
+comment2.target=java.util.List\ getAppointmentsByPatient(java.lang.String)
+comment3.params=patientID\ surgeonID\ appointmentID\ conditions\ diagnosisDate\ treatment\ treatmentDate
+comment3.target=boolean\ addMedicalHistory(int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4

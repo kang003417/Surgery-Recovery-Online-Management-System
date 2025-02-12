@@ -1,5 +1,9 @@
 #BlueJ class context
 comment0.target=MessageController
-comment1.params=senderID\ receiverID\ messageText
-comment1.target=void\ saveMessage(int,\ int,\ java.lang.String)
-numComments=2
+comment1.params=sender\ receiver\ message
+comment1.target=void\ saveMessage(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=sender\ receiver
+comment2.target=java.util.List\ getChatHistory(java.lang.String,\ java.lang.String)
+comment3.params=surgeonUserId
+comment3.target=java.util.List\ getAssignedPatients(int)
+numComments=4

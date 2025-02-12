@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TreatmentController
+comment1.params=appointmentID\ surgeonID\ treatmentDetails
+comment1.target=boolean\ addTreatment(int,\ int,\ java.lang.String)
+numComments=2

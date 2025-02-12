@@ -14,7 +14,7 @@ public class ClinicController {
 
     public List<Clinic> getNearestClinicsByPatientID(int patientID) {
         List<Clinic> clinics = new ArrayList<>();
-        String query = "SELECT c.* FROM Clinic c JOIN User u ON c.postcode = u.postcode WHERE u.userId = ?";
+        String query = "SELECT c.clinicID, c.clinicName, c.clinicAddress, c.clinicPhone, c.clinicPostcode, c.patientPostcode FROM Clinic c JOIN Patient p ON c.clinicPostcode = p.postcode WHERE p.userID = ?";
         try (Connection connection = DatabaseUtil.getConnection();
              PreparedStatement stmt = connection.prepareStatement(query)) {
             stmt.setInt(1, patientID);
